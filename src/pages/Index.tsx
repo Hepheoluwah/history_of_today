@@ -144,7 +144,7 @@ const Index = () => {
               <ThemeToggle />
             </div>
             <h1 className="text-4xl md:text-6xl font-heading font-bold mb-4">
-              Today in <span className="text-historical">History</span>
+             History of <span className="text-historical">Today</span>
             </h1>
             <p className="text-lg md:text-xl opacity-90 max-w-2xl mx-auto">
               Discover the fascinating events, births, and deaths that shaped our world on this day in history
